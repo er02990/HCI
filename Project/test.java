@@ -1,3 +1,3 @@
-Public Class test {
+public class test {
 
 }
